@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Woodshack
+
+## Description
+
+1st place winner for the University of Bristol CSS x Boeing 2020 Hackathon
+
+Crowdsourced suggestions for automated tree-planting using drones, filtered using machine learning.
+
+Category: Environment
+
+This repo only contains the front-end for the app. The backend repo will hopefully be made public soon.
 
 ## Available Scripts
 
